@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajsingh9898" alt="rajsingh9898" /></a> </p>
 
-- 🔭 I’m currently working on **Face Recognition Attendance System**
+- 🔭 I’m currently working on **AI Based application for cyber threat detection system**
 
-- 🌱 I’m currently learning **Flask,Django**
+- 🌱 I’m currently learning **LLM,Flask,RAG**
 
 - 👯 I’m looking to collaborate on **Cloud projects**
 
 - 🤝 I’m looking for help with **Cloud**
 
-- 💬 Ask me about **Cloud**
+- 💬 Ask me about **MERN & Cloud**
 
 - 📫 How to reach me **rajsingh98447859@gmail.com**
 
