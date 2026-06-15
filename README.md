@@ -15,21 +15,13 @@ Building AI products powered by LLMs, RAG and Agentic AI 🚀
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+Applications;RAG+Pipelines;Agentic+AI;Full+Stack+Developer;Building+Real+World+AI+Products" />
 </p>
-
 <p align="center">
-
 <a href="https://linkedin.com/in/raj-singh-49aa842a5">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:rajsingh98447859@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/rajsingh9898"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
-<a href="https://github.com/rajsingh9898">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 </p>
 
 ---
@@ -105,16 +97,13 @@ Building AI products powered by LLMs, RAG and Agentic AI 🚀
 <p align="center">
 
 <a href="https://leetcode.com/rajsingh9898">
-<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 <a href="https://www.codechef.com/users/rajsingh9898">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/></a>
 
 <a href="https://www.hackerrank.com/rajsingh98447859">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
 </p>
 
@@ -134,20 +123,16 @@ Building AI products powered by LLMs, RAG and Agentic AI 🚀
 <p align="center">
 
 <a href="https://github.com/rajsingh9898">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<img src="https://skillicons.dev/icons?i=github"/></a>
 
 <a href="https://linkedin.com/in/raj-singh-49aa842a5">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img src="https://skillicons.dev/icons?i=linkedin"/></a>
 
 <a href="mailto:rajsingh98447859@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<img src="https://skillicons.dev/icons?i=gmail"/></a>
 
 <a href="https://twitter.com/rajsingh_9898">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
+<img src="https://skillicons.dev/icons?i=twitter"/></a>
 
 </p>
 
